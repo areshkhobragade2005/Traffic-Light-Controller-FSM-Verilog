@@ -88,7 +88,7 @@ This project is for educational and internship purposes.
 
 ## Synthesis
 
-![Synthesis]()
+![Synthesis](https://github.com/areshkhobragade2005/Traffic-Light-Controller-FSM-Verilog/blob/main/trafic%20sinthesized%20design.png)
 
 ## Timing Summery
 ![Timing_summery]()

@@ -88,8 +88,10 @@ This project is for educational and internship purposes.
 
 ## Synthesis
 
-![Synthesis](images/synthesis.png)
+![Synthesis]()
 
+## Timing Summery
+![Timing_summery]()
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.

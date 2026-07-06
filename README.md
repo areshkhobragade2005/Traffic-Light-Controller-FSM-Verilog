@@ -1,5 +1,4 @@
 # Traffic-Light-Controller-FSM-Verilog
-# Traffic Light Controller using Verilog HDL
 
 ## Overview
 This project implements a Traffic Light Controller using a Moore Finite State Machine (FSM) in Verilog HDL. The design was developed and verified using Xilinx Vivado. It demonstrates sequential digital logic design, FSM implementation, behavioral simulation, RTL synthesis, and waveform analysis.

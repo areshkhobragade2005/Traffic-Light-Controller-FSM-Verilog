@@ -91,7 +91,7 @@ This project is for educational and internship purposes.
 ![Synthesis](https://github.com/areshkhobragade2005/Traffic-Light-Controller-FSM-Verilog/blob/main/trafic%20sinthesized%20design.png)
 
 ## Timing Summery
-![Timing_summery]()
+![Timing_summery](https://github.com/areshkhobragade2005/Traffic-Light-Controller-FSM-Verilog/blob/main/trafic%20timing%20summery.png)
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.

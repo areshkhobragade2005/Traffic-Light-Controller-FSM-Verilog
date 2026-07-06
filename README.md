@@ -80,7 +80,7 @@ This project is for educational and internship purposes.
 
 ## Simulation Waveform
 
-![Waveform](https://github.com/areshkhobragade2005/Traffic-Light-Controller-FSM-Verilog/blob/main/trafic%20scimatic.png)
+![Waveform](https://github.com/areshkhobragade2005/Traffic-Light-Controller-FSM-Verilog/blob/main/trafic%20simulation.png)
 
 ## RTL Schematic
 

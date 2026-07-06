@@ -84,7 +84,7 @@ This project is for educational and internship purposes.
 
 ## RTL Schematic
 
-![RTL](images/rtl_schematic.png)
+![RTL](https://github.com/areshkhobragade2005/Traffic-Light-Controller-FSM-Verilog/blob/main/trafic%20scimatic.png)
 
 ## Synthesis
 
